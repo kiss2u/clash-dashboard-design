@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-up-arrow-o</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-up-arrow-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="13 6.5 14 6.5 14 14 1.42108547e-14 14 1.42108547e-14 6.5 1 6.5 0.996765351 13 13 13"></polygon>
+        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" transform="translate(7.000000, 5.205128) scale(1, -1) translate(-7.000000, -5.205128) " points="6.5 0 7.5 0 7.5 10.4102564 6.5 10.4102564"></polygon>
+        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" transform="translate(8.695578, 9.336951) scale(1, -1) translate(-8.695578, -9.336951) " points="7.01031689 7.00361793 11.0289118 11.0222128 10.3808401 11.6702846 6.36224514 7.6516897"></polygon>
+        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" transform="translate(5.326784, 9.327512) scale(1, -1) translate(-5.326784, -9.327512) " points="2.9934506 11.0127732 7.01191819 6.99417831 7.66011726 7.64225006 3.64073284 11.660845"></polygon>
+    </g>
+</svg>

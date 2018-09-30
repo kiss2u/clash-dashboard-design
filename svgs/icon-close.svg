@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-close" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.5,7.5 L1.58333333,7.5 L0.5,7.5 L0.5,6.5 L1.58333333,6.5 L6.5,6.5 L6.5,1.58333333 L6.5,0.5 L7.5,0.5 L7.5,1.58333333 L7.5,6.5 L12.4166667,6.5 L13.5,6.5 L13.5,7.5 L12.4166667,7.5 L7.5,7.5 L7.5,12.4166667 L7.5,13.5 L6.5,13.5 L6.5,12.4166667 L6.5,7.5 Z" id="Combined-Shape" fill="#2C8AF8" fill-rule="nonzero" transform="translate(7.000000, 7.000000) rotate(45.000000) translate(-7.000000, -7.000000) "></path>
+    </g>
+</svg>
