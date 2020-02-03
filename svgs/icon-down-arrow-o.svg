@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-down-arrow-o</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icon-down-arrow-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="13 6.5 14 6.5 14 14 1.42108547e-14 14 1.42108547e-14 6.5 1 6.5 0.996765351 13 13 13"></polygon>
-        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="6.5 1 7.5 1 7.5 11 6.5 11"></polygon>
-        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="7.01031689 0.00361792897 11.0289118 4.02221283 10.3808401 4.6702846 6.36224514 0.651689697"></polygon>
-        <polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="2.9934506 4.0127732 7.01191819 -0.00582169256 7.66011726 0.642250062 3.64073284 4.66084497"></polygon>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" version="1.1" viewBox="0 0 14 14"><title>icon-down-arrow-o</title><desc>Created with Sketch.</desc><g id="icon-down-arrow-o" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="13 6.5 14 6.5 14 14 0 14 0 6.5 1 6.5 .997 13 13 13"/><polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="6.5 1 7.5 1 7.5 11 6.5 11"/><polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="7.01 .004 11.029 4.022 10.381 4.67 6.362 .652"/><polygon id="Shape" fill="#2C8AF8" fill-rule="nonzero" points="2.993 4.013 7.012 -.006 7.66 .642 3.641 4.661"/></g></svg>
