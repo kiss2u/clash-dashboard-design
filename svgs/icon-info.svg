@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
-    <title>icon-info</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="icon-info" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M7.5,8.75 L6.5,8.75 L6.5,2.75 L7.5,2.75 L7.5,8.75 Z M7.75,10.5 C7.75,10.086 7.416,9.75 7,9.75 C6.587,9.75 6.25,10.086 6.25,10.5 C6.25,10.914 6.587,11.25 7,11.25 C7.416,11.25 7.75,10.914 7.75,10.5 Z M7,0 C3.135,0 0,3.135 0,7 C0,10.866 3.135,14 7,14 C10.867,14 14,10.866 14,7 C14,3.135 10.867,0 7,0 Z M7.00099817,13 C3.6870737,13 1,10.3143713 1,7 C1,3.68562874 3.6870737,1 7.00099817,1 C10.3149226,1 13,3.68662675 13,7 C13,10.3133733 10.3149226,13 7.00099817,13 Z" id="Shape" fill="#2C8AF8" fill-rule="nonzero"></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" version="1.1" viewBox="0 0 14 14"><title>icon-info</title><desc>Created with Sketch.</desc><g id="icon-info" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Shape" fill="#2C8AF8" fill-rule="nonzero" d="M7.5,8.75 L6.5,8.75 L6.5,2.75 L7.5,2.75 L7.5,8.75 Z M7.75,10.5 C7.75,10.086 7.416,9.75 7,9.75 C6.587,9.75 6.25,10.086 6.25,10.5 C6.25,10.914 6.587,11.25 7,11.25 C7.416,11.25 7.75,10.914 7.75,10.5 Z M7,0 C3.135,0 0,3.135 0,7 C0,10.866 3.135,14 7,14 C10.867,14 14,10.866 14,7 C14,3.135 10.867,0 7,0 Z M7.00099817,13 C3.6870737,13 1,10.3143713 1,7 C1,3.68562874 3.6870737,1 7.00099817,1 C10.3149226,1 13,3.68662675 13,7 C13,10.3133733 10.3149226,13 7.00099817,13 Z"/></g></svg>
